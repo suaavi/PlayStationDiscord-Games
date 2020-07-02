@@ -1,4 +1,5 @@
 # Popular/Common titles
+CUSA04738_00 # The Evil Within 2
 CUSA07022_00 # Fortnite
 CUSA05042_00 # Destiny 2
 CUSA11100_00 # Black Ops 4
